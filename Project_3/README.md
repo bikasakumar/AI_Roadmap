@@ -45,3 +45,11 @@ Agent could:
 9. Recommend action
 
 This project can demonstrate AI + backend + cloud + DevOps, which is much stronger than another generic chatbot.
+---------------------------------------------------
+Project 3 — AI Agent
+
+AI DevOps Agent
+
+Demonstrates:
+
+Agents Tool calling Kubernetes AWS Jenkins Git Logs LLM
