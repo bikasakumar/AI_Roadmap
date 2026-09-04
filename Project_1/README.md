@@ -49,3 +49,12 @@ Expose it through:
 FastAPI
 
 Then build a frontend if you want.
+----------------------------------
+Project 1 — LLM API
+
+AI Text Assistant
+
+Demonstrates:
+
+Python FastAPI LLM API REST Docker
+
