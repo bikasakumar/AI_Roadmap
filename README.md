@@ -198,3 +198,5 @@ CRM / Ticketing API
 Resolution
 
 This project can later support your move toward AI Product Manager / AI Solutions Architect.
+
+https://chatgpt.com/share/6a9af93b-91e8-83e8-b2d7-58a898a46cac
